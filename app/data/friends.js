@@ -47,7 +47,7 @@ var friends = [
       ]
     },
     {
-      name: "Louis T. Delia",
+      name: "John",
       scores: [
         "3",
         "3",
